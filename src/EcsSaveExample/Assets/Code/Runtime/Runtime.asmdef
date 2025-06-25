@@ -1,0 +1,28 @@
+{
+    "name": "Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:caca889fed6088d40b22c2d7e2909c31",
+        "GUID:d525ad6bd40672747bde77962f1c401e",
+        "GUID:355718e094a01f24c90c6a41a0dda231",
+        "GUID:029c1c1b674aaae47a6841a0b89ad80e",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:48c9f6afdac61634db0e0f241c7d4d51"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll",
+        "Entitas.dll",
+        "Entitas.CodeGeneration.Attributes.dll",
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
